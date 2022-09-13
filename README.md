@@ -3,7 +3,6 @@
 <h1 align="center">Hi 👋, I'm Abhishek Aute</h1>
 <h3 align="center">AIDS student | Coding enthusiast |</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhi2820&label=Profile%20views&color=0e75b6&style=flat" alt="abhi2820" /> </p>
 
 # 💫 About Me:
 🔭 I’m currently learning web development  and Data Science
