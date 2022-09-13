@@ -22,7 +22,6 @@ HTML
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhi2820&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Abhi2820&icon=5&color=0)](https://visitcount.itsvg.in)
 
 
 
