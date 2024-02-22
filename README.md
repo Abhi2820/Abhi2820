@@ -5,7 +5,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently learning web development  and Data Science
+🔭 I’m currently learning DSA and Data Science
 
 
 ## 🌐 Socials:
