@@ -11,7 +11,7 @@ I enjoy building practical, insight-driven projects and constantly improving my 
 ---
 
 # 🌐 Socials
-## 🌐 Socials  
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-aute/)  
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abhishekaute2002@gmail.com)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-4A4A4A?logo=link&logoColor=white)](YOUR_PORTFOLIO_LINK)  
